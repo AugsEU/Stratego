@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3FB1D188-5598-4BD6-B310-267991587CCB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>StrategoMMXVI.My.MyApplication</StartupObject>
+    <RootNamespace>StrategoMMXVI</RootNamespace>
+    <AssemblyName>StrategoMMXVI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>StrategoMMXVI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>StrategoMMXVI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AIModule.vb" />
+    <Compile Include="BinaryFileSave.vb" />
+    <Compile Include="PieceLocation.vb" />
+    <Compile Include="BoardPiece.vb" />
+    <Compile Include="BoardState.vb" />
+    <Compile Include="ChanceNode.vb" />
+    <Compile Include="HelpMenu.Designer.vb">
+      <DependentUpon>HelpMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HelpMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoPacket.vb" />
+    <Compile Include="MinNode.vb" />
+    <Compile Include="Main_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Form.Designer.vb">
+      <DependentUpon>Main_Form.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaxNode.vb" />
+    <Compile Include="Move.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Node.vb" />
+    <Compile Include="PieceHistory.vb" />
+    <Compile Include="Strategy.vb" />
+    <Compile Include="TeamPrompt.Designer.vb">
+      <DependentUpon>TeamPrompt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TeamPrompt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils.vb" />
+    <Compile Include="VectorInt.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="HelpMenu.resx">
+      <DependentUpon>HelpMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Form.resx">
+      <DependentUpon>Main_Form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamPrompt.resx">
+      <DependentUpon>TeamPrompt.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NA.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B7.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B7.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

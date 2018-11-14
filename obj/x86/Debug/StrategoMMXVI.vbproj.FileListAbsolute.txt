@@ -1,0 +1,89 @@
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.pdb
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.xml
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\ResolveAssemblyReference.cache
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Main_Form.resources
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Resources.resources
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\GenerateResource.read.1.tlog
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\GenerateResource.write.1.tlog
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.exe
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.xml
+n:\visual studio 2010\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.pdb
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.exe
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.xml
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.pdb
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.pdb
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.xml
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe.CodeAnalysisLog.xml
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe.lastcodeanalysissucceeded
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.vbprojResolveAssemblyReference.cache
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Main_Form.resources
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Resources.resources
+C:\Users\August\Documents\Visual Studio 2015\Projects\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.vbproj.GenerateResource.Cache
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.exe
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.xml
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.pdb
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.exe
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.xml
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.pdb
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.pdb
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.xml
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Main_Form.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Resources.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\GenerateResource.write.1.tlog
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.TeamPrompt.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.exe
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.xml
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.pdb
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.pdb
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.xml
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.vbprojResolveAssemblyReference.cache
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Main_Form.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Resources.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.TeamPrompt.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.vbproj.GenerateResource.Cache
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.pdb
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.xml
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Main_Form.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Resources.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.TeamPrompt.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe.config
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe.config
+D:\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe.config
+D:\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.exe
+D:\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.xml
+D:\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.pdb
+D:\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe
+D:\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.pdb
+D:\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.xml
+D:\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Main_Form.resources
+D:\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Resources.resources
+D:\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.TeamPrompt.resources
+D:\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\GenerateResource.write.1.tlog
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe.config
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe.config
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.exe
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.xml
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.pdb
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.vbprojResolveAssemblyReference.cache
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Main_Form.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.Resources.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.TeamPrompt.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.vbproj.GenerateResource.Cache
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\bin\Debug\StrategoMMXVI.exe
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\bin\Debug\StrategoMMXVI.pdb
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\bin\Debug\StrategoMMXVI.xml
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI - Merge\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.HelpMenu.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.HelpMenu.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Debug\StrategoMMXVI.HelpMenu.resources

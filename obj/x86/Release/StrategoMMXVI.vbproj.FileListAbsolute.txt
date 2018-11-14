@@ -1,0 +1,39 @@
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.exe.config
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.exe
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.pdb
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.xml
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\ResolveAssemblyReference.cache
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.Main_Form.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.Resources.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.TeamPrompt.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\GenerateResource.read.1.tlog
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\GenerateResource.write.1.tlog
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.exe
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.xml
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.pdb
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.exe.config
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.exe
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.xml
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.pdb
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.exe
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.pdb
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.xml
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\ResolveAssemblyReference.cache
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.Main_Form.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.Resources.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.TeamPrompt.resources
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\GenerateResource.read.1.tlog
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\GenerateResource.write.1.tlog
+N:\Downloads\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.HelpMenu.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.exe.config
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.exe
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.xml
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.pdb
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.exe
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.pdb
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\bin\Release\StrategoMMXVI.xml
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.HelpMenu.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.Main_Form.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.Resources.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.TeamPrompt.resources
+C:\Users\August\Downloads\A Level Backups\StrategoMMXVI\StrategoMMXVI\obj\x86\Release\StrategoMMXVI.vbproj.GenerateResource.Cache
